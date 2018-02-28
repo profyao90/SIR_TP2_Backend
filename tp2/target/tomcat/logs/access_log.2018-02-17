@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:26:11 +0100] "GET /index.html HTTP/1.1" 200 132 http-bio-9955-exec-1 60
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:26:11 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-2 6
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:29:09 +0100] "GET /myform.html HTTP/1.1" 200 273 http-bio-9955-exec-4 7
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:29:43 +0100] "POST /UserInfo HTTP/1.1" 200 126 http-bio-9955-exec-6 8
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:29:58 +0100] "POST /UserInfo HTTP/1.1" 200 126 http-bio-9955-exec-9 2
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:30:08 +0100] "POST /UserInfo HTTP/1.1" 200 125 http-bio-9955-exec-1 2
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:43:09 +0100] "POST /UserInfo HTTP/1.1" 200 125 http-bio-9955-exec-4 1
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:53:52 +0100] "GET /myform.html HTTP/1.1" 304 - http-bio-9955-exec-7 203
